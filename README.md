@@ -5,13 +5,20 @@
 
 This repository is an official implementation of "Vision-Language-Camera: Introducing Vision Language Models for Unleashing the Power of Camera Manual Mode" (VLC). This is the initial version of VLC, and this repo will be kept updated.
 
-## Quick Start
-### LLaVA-v1.5
+## Preparation
+#### 1. Clone VLC scripts
 
-#### Install LLaVA.
+```shell
+git clone https://github.com/zqianaa/VLC.git
+```
+
+#### 2. Install LLaVA.
 
 ```shell
 git clone https://github.com/haotian-liu/LLaVA.git
 cd LLaVA
+conda create -n llava python=3.10 -y
+conda activate llava
+pip install --upgrade pip
 pip install -e .
 ```
