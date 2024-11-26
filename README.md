@@ -37,7 +37,7 @@ python -m llava.serve.cli \
 --image-file "./imgs/img1.jpg"
 ```
 
-## Evaluation
+## Inference
 
 ## Citation
 
