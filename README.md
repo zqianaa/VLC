@@ -31,6 +31,8 @@ pip install -e .
 
 ## Checkpoints
 
+You can download our checkpoint from [VLC Checkpoint](https://drive.google.com/file/d/16oi5ISlCvPdr6-oi-0w_6YmLj6XUNzEG/view?usp=sharing) and put it into the checkpoints folder of LLaVA.
+
 
 ## CLI-Demo
 
