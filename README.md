@@ -1,4 +1,4 @@
-# Vision-Language-Camera: Introducing Vision Language Models for Unleashing the Power of Camera Manual Mode
+# Vision-Language-Camera: Aligning User Intent and Camera Expertise through Vision-Language Models
 
 ![](./demo/demo_img.png)
 
